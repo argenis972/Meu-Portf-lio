@@ -1,8 +1,11 @@
+projeto:
+  nome: "Meu Portfólio"
+  autor: "Argenis López"
+  descricao: "Portfólio pessoal para exibir projetos e estudos."
+  versao: "1.0.0"
+  ano: 2025
 
----
-
-## ⚙️ Como Executar Localmente
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/argenis972/Meu-Portf-lio.git
+links:
+  github: "https://github.com/argenis972"
+  linkedin: "https://www.linkedin.com/in/argenis-lopez-649701304"
+  email: "argenislopez28708256@gmail.com"

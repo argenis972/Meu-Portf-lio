@@ -11,10 +11,11 @@ const projetos = [
     link: "#"
   },
   {
-    titulo: "Javascript",
-    desc: "Página moderna e otimizada para conversão, construída com HTML, Tailwind e JS.",
-    link: "#"
-  }
+  titulo: "Javascript",
+  desc: "Página moderna e otimizada para conversão, construída com HTML, Tailwind e JS.",
+  link: "#"
+}
+
 ];
 
 // Renderizar projetos automáticamente

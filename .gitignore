@@ -1,0 +1,29 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Node / npm
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs, backups y temporales
+*.log
+*.tmp
+*.bak
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Build / Dist
+dist/
+build/
+
+# Archivos que no quieres subir
+update_repo.bat
+update_repo.sh
