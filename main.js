@@ -8,7 +8,7 @@ const projetos = [
   {
     titulo: "Python",
     desc: "Projetos de Python e boas práticas de programação.",
-    link: "#"
+    link: "https://github.com/argenis972/matriz-simetrica-python.git"
   },
   {
   titulo: "Javascript",
